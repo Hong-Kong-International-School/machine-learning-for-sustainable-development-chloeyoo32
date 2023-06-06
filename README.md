@@ -16,5 +16,13 @@ Our plant disease detection system utilizes a Convolutional Neural Network (CNN)
 2. User-friendly Interface: Designed to be accessible and easy-to-use for smallholder farmers who may lack access to advanced agricultural technologies and expertise.
 3. Data-driven Monitoring: Aggregates data to support monitoring and evaluation of disease incidence at regional and national levels, informing targeted interventions.
 
+## Data Source
+I got my data set from Kaggle, which can be found here: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+
+## Notebook
+Here is my Kaggle notebook
+
+
+
 
 
