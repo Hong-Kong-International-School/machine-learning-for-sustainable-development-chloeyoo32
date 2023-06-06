@@ -39,9 +39,8 @@ https://github.com/Hong-Kong-International-School/machine-learning-for-sustainab
 Xcode 12 or later
 iOS 14 or later
 ##### Steps to Install
-Clone this repository: git clone [repository URL]
+Clone this repository
 Open the project in Xcode.
-[Optional: Include instructions for adding the Core ML model if not included in the repository.]
 Build and run the project on an iOS device or simulator.
 #### How to Use
 Launch the Plant Disease Detector app on your iOS device.
