@@ -9,7 +9,7 @@ How will this help solve the SDG goal 2:
 3. Improved Decision-making: Facilitates data-driven decision-making by researchers, governments, and other stakeholders, enabling more effective and efficient use of resources in the fight against crop diseases.
 
 ## Overview
-Our plant disease detection system utilizes a Convolutional Neural Network (CNN) model trained on a comprehensive dataset of plant images with various diseases. Users can upload images of their plants, and the system will analyze these images to identify the presence of any diseases. Our goal is to provide a reliable, accurate, and easy-to-use tool to support farmers and gardeners in maintaining the health of their crops and ultimately increasing yield.
+The plant disease detection system utilizes a Convolutional Neural Network (CNN) model trained on a comprehensive dataset of plant images with various diseases. Users can upload images of their plants, and the system will analyze these images to identify the presence of any diseases. Our goal is to provide a reliable, accurate, and easy-to-use tool to support farmers and gardeners in maintaining the health of their crops and ultimately increasing yield.
 
 ## Features
 1. Early Disease Detection: Utilizes advanced machine learning algorithms to accurately identify and diagnose common plant diseases based on images captured by farmers.
