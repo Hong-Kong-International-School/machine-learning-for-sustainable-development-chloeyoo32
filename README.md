@@ -25,9 +25,15 @@ Here I trained the dataset using a convolutional neural network.
 
 ## Xcode
 I uploaded my Xcode files in a folder called "plant disease app".
+Here is a video of an example of how it works:
 
+https://github.com/Hong-Kong-International-School/machine-learning-for-sustainable-development-chloeyoo32/assets/70065860/3bb8868b-2078-401a-b88c-710ae3061d80
 
+## Biggest Challenge
+My biggest challenge was converting my .h5 file, my downloaded CNN model from Kaggle, into a .mlmodel file, which is what Xcode accepts. As Xcode only accepts a machine learning file of .mlmodel, and Kaggle doesn't export as a .mlmodel, so I had to convert it with code on Visual Studio Code. This part was quite challenging finding how to do it.
 
+## Future
+I had lots of errors running my code, especially on Kaggle, due to the limited storage and memory on my Mac. Hopefully in the near future I can try to find another device to run it on so that there are more ephocs and a larger batch size, for a more accuracy. Additionally, my Xcode code is not perfect, and need some tweeks but the video embeded is how I would like my app to look like at the end.
 
 
 
