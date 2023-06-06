@@ -26,6 +26,7 @@ Here I trained the dataset using a convolutional neural network.
 ## Xcode
 I uploaded my Xcode files in a folder called "plant disease app".
 Here is a video of an example of how it works:
+
 https://github.com/Hong-Kong-International-School/machine-learning-for-sustainable-development-chloeyoo32/assets/70065860/c86e5c0c-44cc-4834-9ee0-fbe0632c9f5f
 
 
