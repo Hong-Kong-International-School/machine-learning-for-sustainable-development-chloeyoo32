@@ -16,6 +16,11 @@ Our plant disease detection system utilizes a Convolutional Neural Network (CNN)
 2. User-friendly Interface: Designed to be accessible and easy-to-use for smallholder farmers who may lack access to advanced agricultural technologies and expertise.
 3. Data-driven Monitoring: Aggregates data to support monitoring and evaluation of disease incidence at regional and national levels, informing targeted interventions.
 
+## System Details
+Platform: iOS
+Language: Swift
+Dependencies: Core ML, Vision
+
 ## Data Source
 I got my data set from Kaggle, which can be found here: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
@@ -29,6 +34,19 @@ Here is a video of an example of how it works:
 
 https://github.com/Hong-Kong-International-School/machine-learning-for-sustainable-development-chloeyoo32/assets/70065860/c86e5c0c-44cc-4834-9ee0-fbe0632c9f5f
 
+## Installation
+#### Prerequisites
+Xcode 12 or later
+iOS 14 or later
+##### Steps to Install
+Clone this repository: git clone [repository URL]
+Open the project in Xcode.
+[Optional: Include instructions for adding the Core ML model if not included in the repository.]
+Build and run the project on an iOS device or simulator.
+#### How to Use
+Launch the Plant Disease Detector app on your iOS device.
+Take a photo or select an image of a plant leaf from your device.
+The app will analyze the image and display the detected disease along with a confidence score.
 
 ## Biggest Challenge
 My biggest challenge was converting my .h5 file, my downloaded CNN model from Kaggle, into a .mlmodel file, which is what Xcode accepts. As Xcode only accepts a machine learning file of .mlmodel, and Kaggle doesn't export as a .mlmodel, so I had to convert it with code on Visual Studio Code. This part was quite challenging finding how to do it.
