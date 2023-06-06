@@ -20,7 +20,11 @@ Our plant disease detection system utilizes a Convolutional Neural Network (CNN)
 I got my data set from Kaggle, which can be found here: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
 ## Notebook
-Here is my Kaggle notebook
+My Kaggle notebook: https://www.kaggle.com/code/chloeyoo32/plant-disease-detection
+Here I trained the dataset using a convolutional neural network. 
+
+## Flask
+
 
 
 
